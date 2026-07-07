@@ -312,4 +312,5 @@ This system enforces strict security standards to protect users and application 
    - Uploaded files are checked for MIME type (`image/jpeg`, `image/png`, `image/webp`) and size limits (< 5MB).
    - Filenames are randomized with cryptographically secure hashes to prevent direct path traversal or overwrite attempts.
 #   A c c o m m o d a t i o n - S y s t e m  
+ #   A c c o m m o d a t i o n - S y s t e m  
  
